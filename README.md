@@ -22,7 +22,7 @@ Além da graduação, estou desenvolvendo projetos próprios voltados para:
 - **Backend:** Firebase (Firestore e Realtime Database)
 - **Linguagens:** C, Java, Python
 - **Ferramentas:** Git, GitHub, Figma, VS Code
-- **Idiomas:** Português (nativo), Inglês (Avançado), Espanhol (Avançado), Francês (estudando)
+- **Idiomas:** Português (nativo), Inglês (Avançado), Espanhol (Avançado), Francês (básico)
 
 <!---
 MariiRezende/MariiRezende is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
