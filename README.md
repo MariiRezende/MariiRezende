@@ -13,9 +13,9 @@ Atualmente curso **Engenharia de Computação** na Universidade Federal de Goiá
 
   ## Tecnologias e Ferramentas que uso
 
-- **Linguagens:** C, Java, Python
+- **Linguagens:** C, Java, Python, Java Script 
 - **Ferramentas:** Git, GitHub, Figma, VS Code
-- **Idiomas:** Português (nativo), Inglês (Avançado), Espanhol (Avançado), Francês (básico)
+- **Idiomas:** Português (nativo), Inglês (Avançado), Espanhol (intermediáro), Francês (básico)
 
 <!---
 MariiRezende/MariiRezende is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
